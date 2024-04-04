@@ -1,0 +1,9 @@
+* Interface ou classe abstrata?
+    -Quando a abstração que precisa ser criada é um conceito, ou seja, algo refinado e especializado, deve ser utilizado
+    classe abstrata, pois podem possuir métodos concretos e atributos.
+    -Quando a abstração é um comportamento então a melhor solução é a criação de uma interface.
+
+* Sempre devo utilizar padrões?
+    Não, os padrões são utilizados para solucionar problemas, usar apenas por usar não faz sentido pois ira deixar o
+    código mais complexo. O ideal é analisar a situação e escolher se devo utilizar o padrão ou não, e caso use, também
+    devo analisar qual o melhor padrão levando em consideração as percas e os ganhos.
